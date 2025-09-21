@@ -1,6 +1,8 @@
 ### Marvin Chow, CMPA 3301, Project 03
 # Project Name:
-## Veteran Tech Transition Hub
+### Veteran Tech Transition Hub
+<img src="VTT%20Hub%20Logo.png" alt="VTT Hub Logo" width="300">
+
 # Project Purpose:
 ### The *Veteran Tech Transition Hub* is an online resource for newly separated honorable veterans who look to transition from their military career into tech. The site will provide guidance, sample learning paths, and motivational content tailored to veterans entering the tech field.
 # Project Description:
@@ -25,4 +27,4 @@
 - GitHub Pages deployment is successful and publicly accessible
 - README clearly explains the fictional website’s purpose and structure
 
-(![VTT Hub Logo.png](VTT%20Hub%20Logo.png))
+
