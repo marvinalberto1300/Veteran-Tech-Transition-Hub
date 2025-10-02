@@ -17,6 +17,7 @@
 # Exclusions:
 - No user login features
 - No third-party integration
+- No videos, gifs or music
 # Priorities:
 1. Clear and professional Project Scope Statement, website, and repository
 2. Functional HTML/CSS
@@ -28,6 +29,7 @@
 - CSS styling is applied consistently across both pages
 - GitHub Pages deployment is successful and publicly accessible
 - README clearly explains the fictional website’s purpose and structure
+
 
 
 
