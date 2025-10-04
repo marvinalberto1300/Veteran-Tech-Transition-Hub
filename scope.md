@@ -1,15 +1,16 @@
 ### Marvin Chow, CMPA 3301, Project 03
 # Project Name:
 ### Veteran Tech Transition Hub
-<img src="vtth-logo.png" alt="VTT Hub Logo" width="300">
 
 # Project Purpose:
-### The *Veteran Tech Transition Hub* is an online resource for newly separated honorable veterans who look to transition from their military career into tech. The site will provide guidance, sample learning paths, and motivational content tailored to veterans entering the tech field.
+### The *Veteran Tech Transition Hub* is an online resource for honorable veterans, or newly separating/separated soldiers who look to transition from their military career into a tech job. The site will provide guidance, sample learning paths, and motivational content tailored to veterans entering the tech field.
+
 # Project Description:
 ### This project will deliver a two-page website prototype using basic HTML and CSS. 
 ### The homepage will introduce the mission of the Veteran Tech Transition Hub and offer a sample roadmap for veterans transitioning into tech.
 ### The second page will highlight key resources, including resume-building assistance, certificate options, degree plans, links and phone numbers. 
-### The site will be hosted on Github Pages and serve as a professional portfolio piece demonstrating web development and project management skills.
+### The site will be hosted on GitHub Pages and serve as a professional portfolio piece demonstrating web development and project management skills.
+
 # Desired Results:
 - A live, two-page website hosted on GitHub Pages.
 - Page 1 will include an introduction of the Veteran Transition Hub and it's purpose. It will also include a roadmap for veteran's seperating from service looking to get into the tech industry.
@@ -17,6 +18,11 @@
 - A professional GitHub repository containing all project assets.
 - A clear Project Scope Statement
 - A compelling README intro for the website and its purpose.
+- A Veteran Tech Transition Hub Logo placeholder
+<img src="vtth-logo.png" alt="VTT Hub Logo" width="300">
+(Image above is the VTTH Logo Placeholder.)
+**Please note: This logo was AI-generated, and will not be used in the project's final rendition**
+
 # Exclusions:
 - No user login features
 - No third-party integration
@@ -32,6 +38,7 @@
 - CSS styling is applied consistently across both pages
 - GitHub Pages deployment is successful and publicly accessible
 - README clearly explains the fictional website’s purpose and structure
+
 
 
 
